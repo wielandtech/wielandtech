@@ -80,5 +80,3 @@
     <img src="https://img.shields.io/badge/-wielandtech.com-35A89C?style=for-the-badge&logo=Google-Chrome&logoColor=white" />
   </a>
 </p>
-
-[![Spotify](https://novatorem-username.vercel.app/api/spotify)](https://open.spotify.com/user/wieland959)
