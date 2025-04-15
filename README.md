@@ -1,7 +1,11 @@
 <h1 align="center">
   Hi there, I'm Raphael Wieland <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
 </h1>
-<h3 align="center">Backend & Cloud Engineer | Pythonic Problem Solver | Data Flow Whisperer</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=35A89C&center=true&vCenter=true&width=435&lines=Backend+Engineer;Cloud+Architect;FastAPI+Ninja;Kotlin+Apprentice" alt="Typing SVG" />
+</p>
+
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=wielandtech&style=flat-square&color=35A89C" alt="visitor badge"/>
@@ -15,6 +19,9 @@
 - 🧪 Passionate about clean architecture and observability in production
 - 🧰 Tech I enjoy: `Python`, `FastAPI`, `Django`, `SQLAlchemy`, `Kotlin`, `Apache Beam`
 - 🌎 Always building something scalable, traceable, and cloud-native
+- 
+[![Raphael’s GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=wielandtech&theme=react-dark&color=35A89C&line=35A89C&point=2a8c82)](https://github.com/Ashutosh00710/github-readme-activity-graph)
+
 
 ---
 
@@ -53,9 +60,9 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wielandtech&layout=compact&theme=react&hide=html" alt="Top Languages"/>
 </p>
 
----
-
-### 🐍 Contribution Snake Animation
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=wielandtech&theme=react&ring=35A89C&fire=35A89C" />
+</p>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/wielandtech/wielandtech/main/output/github-contribution-grid-snake.svg" alt="snake animation"/>
@@ -73,3 +80,5 @@
     <img src="https://img.shields.io/badge/-wielandtech.com-35A89C?style=for-the-badge&logo=Google-Chrome&logoColor=white" />
   </a>
 </p>
+
+[![Spotify](https://novatorem-username.vercel.app/api/spotify)](https://open.spotify.com/user/wieland959)
