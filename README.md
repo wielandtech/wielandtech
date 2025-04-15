@@ -66,7 +66,7 @@
 ### 🤝 Let's Connect
 
 <p align="center">
-  <a href="https://linkedin.com/in/raphaelwieland">
+  <a href="https://linkedin.com/in/raphael-wieland">
     <img src="https://img.shields.io/badge/-LinkedIn-35A89C?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://wielandtech.com">
