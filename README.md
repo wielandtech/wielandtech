@@ -58,7 +58,7 @@
 ### 🐍 Contribution Snake Animation
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/wielandtech/wielandtech/output/github-contribution-grid-snake.svg" alt="snake animation"/>
+  <img src="https://raw.githubusercontent.com/wielandtech/wielandtech/main/output/github-contribution-grid-snake.svg" alt="snake animation"/>
 </p>
 
 ---
