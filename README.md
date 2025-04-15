@@ -19,7 +19,7 @@
 - 🧪 Passionate about clean architecture and observability in production
 - 🧰 Tech I enjoy: `Python`, `FastAPI`, `Django`, `SQLAlchemy`, `Kotlin`, `Apache Beam`
 - 🌎 Always building something scalable, traceable, and cloud-native
-- 
+
 [![Raphael’s GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=wielandtech&theme=react-dark&color=35A89C&line=35A89C&point=2a8c82)](https://github.com/Ashutosh00710/github-readme-activity-graph)
 
 
