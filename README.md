@@ -1,27 +1,75 @@
-# 👋 Hi there, I'm Raphael Wieland
+<h1 align="center">
+  Hi there, I'm Raphael Wieland <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
+</h1>
+<h3 align="center">Backend & Cloud Engineer | Pythonic Problem Solver | Data Flow Whisperer</h3>
 
-![Visitor Count](https://komarev.com/ghpvc/?username=wielandtech&style=flat-square&color=35A89C)
-
-I'm a software engineer focused on building robust backend systems, data pipelines, and web applications.  
-I enjoy working with Python, FastAPI, Django, SQLAlchemy, and Kotlin – especially when it involves clean architecture and scalable deployments.
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=wielandtech&style=flat-square&color=35A89C" alt="visitor badge"/>
+</p>
 
 ---
 
-## 🛠️ Tech Stack
+### 🧠 About Me
 
-**Languages**:  
-![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)  
-![Kotlin](https://img.shields.io/badge/-Kotlin-05122A?style=flat&logo=kotlin)  
+- 💻 I specialize in **backend systems**, **data pipelines**, and **developer tooling**
+- 🧪 Passionate about clean architecture and observability in production
+- 🧰 Tech I enjoy: `Python`, `FastAPI`, `Django`, `SQLAlchemy`, `Kotlin`, `Apache Beam`
+- 🌎 Always building something scalable, traceable, and cloud-native
 
-**Frameworks & Tools**:  
-![FastAPI](https://img.shields.io/badge/-FastAPI-05122A?style=flat&logo=fastapi)  
-![Django](https://img.shields.io/badge/-Django-05122A?style=flat&logo=django)  
-![Apache Beam](https://img.shields.io/badge/-Apache%20Beam-05122A?style=flat&logo=apachespark)  
-![SQLAlchemy](https://img.shields.io/badge/-SQLAlchemy-05122A?style=flat&logo=sqlite)  
-![Terraform](https://img.shields.io/badge/-Terraform-05122A?style=flat&logo=terraform)  
-![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker)  
-![Kubernetes](https://img.shields.io/badge/-Kubernetes-05122A?style=flat&logo=kubernetes)
+---
 
-**Cloud & Infra**:  
-![Google Cloud](https://img.shields.io/badge/-Google%20Cloud-05122A?style=flat&logo=googlecloud)  
-![Datadog](https://img.shields.io/badge/-
+### 🛠️ Tech Stack
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-05122A?style=flat&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Kotlin-05122A?style=flat&logo=kotlin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/FastAPI-05122A?style=flat&logo=fastapi"/>
+  <img src="https://img.shields.io/badge/Django-05122A?style=flat&logo=django"/>
+  <img src="https://img.shields.io/badge/Apache%20Beam-05122A?style=flat&logo=apachespark"/>
+  <img src="https://img.shields.io/badge/SQLAlchemy-05122A?style=flat&logo=sqlite"/>
+  <img src="https://img.shields.io/badge/Terraform-05122A?style=flat&logo=terraform"/>
+  <img src="https://img.shields.io/badge/Docker-05122A?style=flat&logo=docker"/>
+  <img src="https://img.shields.io/badge/Kubernetes-05122A?style=flat&logo=kubernetes"/>
+  <img src="https://img.shields.io/badge/Google%20Cloud-05122A?style=flat&logo=googlecloud"/>
+  <img src="https://img.shields.io/badge/Datadog-05122A?style=flat&logo=datadog"/>
+</p>
+
+---
+
+### 🚧 Projects in Production
+
+| Name | Description |
+|------|-------------|
+| [🔗 **w/images**](https://wielandtech.com/images) | A social photo-sharing platform with smart caching and custom image processing |
+| [✍️ **w/blog**](https://wielandtech.com/blog) | A personal blog engine with custom markdown rendering, content tagging, and full-text search |
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=wielandtech&show_icons=true&theme=react&hide=prs" alt="GitHub Stats"/>
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wielandtech&layout=compact&theme=react&hide=html" alt="Top Languages"/>
+</p>
+
+---
+
+### 🐍 Contribution Snake Animation
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/wielandtech/wielandtech/output/github-contribution-grid-snake.svg" alt="snake animation"/>
+</p>
+
+---
+
+### 🤝 Let's Connect
+
+<p align="center">
+  <a href="https://linkedin.com/in/raphaelwieland">
+    <img src="https://img.shields.io/badge/-LinkedIn-35A89C?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://wielandtech.com">
+    <img src="https://img.shields.io/badge/-wielandtech.com-35A89C?style=for-the-badge&logo=Google-Chrome&logoColor=white" />
+  </a>
+</p>
