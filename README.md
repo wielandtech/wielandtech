@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=35A89C&center=true&vCenter=true&width=435&lines=Backend+Engineer;Cloud+Architect;FastAPI+Ninja;Kotlin+Apprentice" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=35A89C&center=true&vCenter=true&width=435&lines=Backend+Engineer;Cloud+Architect;FastAPI+Ninja;DevOps Sensi" alt="Typing SVG" />
 </p>
 
 
@@ -47,6 +47,7 @@
 
 | Name | Description |
 |------|-------------|
+| [🏠 **w/lab**](https://github.com/wielandtech/w_lab) | My Kubernetes homelab: more expensive and less reliable than the cloud, but way more fun! |
 | [🔗 **w/images**](https://wielandtech.com/images) | A social photo-sharing platform with smart caching and custom image processing |
 | [✍️ **w/blog**](https://wielandtech.com/blog) | A personal blog engine with custom markdown rendering, content tagging, and full-text search |
 
