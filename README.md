@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=35A89C&center=true&vCenter=true&width=435&lines=Backend+Engineer;Cloud+Architect;FastAPI+Ninja;DevOps Sensi" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=35A89C&center=true&vCenter=true&width=435&lines=Golang+Engineer;Kubernetes+Enthusiast;Code+Whisperer;Bug+Exterminator;Caffeine+Powered+Codemonkey;Docker+Captain;API+Architect;Cloud+Wizard" alt="Typing SVG" />
 </p>
 
 
@@ -17,10 +17,10 @@
 
 - 💻 I specialize in **backend systems**, **data pipelines**, and **developer tooling**
 - 🧪 Passionate about clean architecture and observability in production
-- 🧰 Tech I enjoy: `Python`, `FastAPI`, `Django`, `SQLAlchemy`, `Kotlin`, `Apache Beam`
+- 🧰 Tech I enjoy: `Python`, `Golang`, `FastAPI`, `Django`, `Kubernetes`, `Apache Beam`
 - 🌎 Always building something scalable, traceable, and cloud-native
 
-[![Raphael’s GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=wielandtech&theme=react-dark&color=35A89C&line=35A89C&point=2a8c82)](https://github.com/wielandtech?tab=repositories)
+[![Raphael's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=wielandtech&theme=react-dark&color=35A89C&line=35A89C&point=2a8c82)](https://github.com/wielandtech?tab=repositories)
 
 
 ---
@@ -29,6 +29,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-05122A?style=flat&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Go-05122A?style=flat&logo=go&logoColor=white"/>
   <img src="https://img.shields.io/badge/Kotlin-05122A?style=flat&logo=kotlin&logoColor=white"/>
   <img src="https://img.shields.io/badge/FastAPI-05122A?style=flat&logo=fastapi"/>
   <img src="https://img.shields.io/badge/Django-05122A?style=flat&logo=django"/>
@@ -48,6 +49,7 @@
 | Name | Description |
 |------|-------------|
 | [🏠 **w/lab**](https://github.com/wielandtech/w_lab) | My Kubernetes homelab: more expensive and less reliable than the cloud, but way more fun! |
+| [🔒 **w/nginx-proxy**](https://github.com/wielandtech/w_nginx_proxy) | Production nginx reverse proxy on VPS that keeps my homelab IP private while routing traffic to wielandtech.com |
 | [🔗 **w/images**](https://wielandtech.com/images) | A social photo-sharing platform with smart caching and custom image processing |
 | [✍️ **w/blog**](https://wielandtech.com/blog) | A personal blog engine with custom markdown rendering, content tagging, and full-text search |
 
