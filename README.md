@@ -49,7 +49,7 @@
 | Name | Description |
 |------|-------------|
 | [🏠 **w/lab**](https://github.com/wielandtech/w_lab) | My Kubernetes homelab: more expensive and less reliable than the cloud, but way more fun! |
-| [🔒 **w/nginx-proxy**](https://github.com/wielandtech/w_nginx_proxy) | Production nginx reverse proxy on VPS that keeps my homelab IP private while routing traffic to wielandtech.com |
+| [🔒 **w/nginx-proxy**](https://github.com/wielandtech/w_nginx_proxy) | NGINX reverse proxy that routes traffic to my homelab while keeping my IP private |
 | [🔗 **w/images**](https://wielandtech.com/images) | A social photo-sharing platform with smart caching and custom image processing |
 | [✍️ **w/blog**](https://wielandtech.com/blog) | A personal blog engine with custom markdown rendering, content tagging, and full-text search |
 
