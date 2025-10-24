@@ -3,11 +3,7 @@
 </h1>
 
 <p align="center">
-<<<<<<< HEAD
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=35A89C&center=true&vCenter=true&width=435&lines=Golang+Engineer;Kubernetes+Enthusiast;Code+Whisperer;Bug+Exterminator;Caffeine+Powered+Codemonkey;Docker+Captain;API+Architect;Cloud+Wizard" alt="Typing SVG" />
-=======
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=35A89C&center=true&vCenter=true&width=435&lines=Backend+Engineer;Cloud+Architect;FastAPI+Ninja;DevOps+Sensi" alt="Typing SVG" />
->>>>>>> 30237681ed887c0a0c7cfd29ce4859cebf57ecf3
 </p>
 
 
