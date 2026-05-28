@@ -10,7 +10,7 @@ permissions:
 
 jobs:
   generate:
-    runs-on: ubuntu-latest
+    runs-on: homelab-dind
     steps:
       - name: Checkout repo
         uses: actions/checkout@v3
