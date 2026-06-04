@@ -28,6 +28,7 @@
 ### 🛠️ Tech Stack
 
 <p align="center">
+  <img src="https://img.shields.io/badge/Claude-05122A?style=flat&logo=anthropic&logoColor=white"/>
   <img src="https://img.shields.io/badge/Python-05122A?style=flat&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/Go-05122A?style=flat&logo=go&logoColor=white"/>
   <img src="https://img.shields.io/badge/Kotlin-05122A?style=flat&logo=kotlin&logoColor=white"/>
@@ -48,6 +49,7 @@
 
 | Name | Description |
 |------|-------------|
+| [🛰️ **w/warn-scraper-v2**](https://github.com/wielandtech/warn_scraper_v2) | AI-assisted WARN layoff-notice scraper. Self-healing per-state parsers — a Claude Agent SDK loop opens a PR when a state site reformats — plus LLM + public-source enrichment. 46 states live in K3s. |
 | [🏠 **w/lab**](https://github.com/wielandtech/w_lab) | My Kubernetes homelab: more expensive and less reliable than the cloud, but way more fun! |
 | [🔒 **w/nginx-proxy**](https://github.com/wielandtech/w_nginx_proxy) | NGINX reverse proxy that routes traffic to my homelab while keeping my IP private |
 | [🔗 **w/images**](https://wielandtech.com/images) | A social photo-sharing platform with smart caching and custom image processing |
@@ -58,9 +60,9 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=wielandtech&show_icons=true&theme=react&hide=prs" alt="GitHub Stats"/>
+  <img src="https://stats.wielandtech.com/api?username=wielandtech&show_icons=true&theme=react&hide=prs" alt="GitHub Stats"/>
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wielandtech&layout=compact&theme=react&hide=html" alt="Top Languages"/>
+  <img src="https://stats.wielandtech.com/api/top-langs/?username=wielandtech&layout=compact&theme=react&hide=html" alt="Top Languages"/>
 </p>
 
 <p align="center">
